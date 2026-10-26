@@ -199,6 +199,7 @@ int main()
 ```
 
 ## OUTPUT:
+<img width="1600" height="453" alt="WhatsApp Image 2026-10-26 at 9 21 48 AM" src="https://github.com/user-attachments/assets/72ddab91-2a98-40ee-bd93-f972720a8139" />
 
 
 ## RESULT:
